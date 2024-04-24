@@ -1,3 +1,5 @@
+# note: 
+this was made first on replit (replit link:https://replit.com/@ncr3423/Darkvortex?v=1)
 # Python Script for Command Line Dashboard
 
 This Python script creates a simple command-line dashboard with options to select and perform actions. Two versions of the script are provided, one for Windows and one for Linux.
